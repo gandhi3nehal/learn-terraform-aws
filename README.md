@@ -1,1 +1,1 @@
-# learn-terraform-aws
+# learn-terraform-aws-ec2
